@@ -1,0 +1,69 @@
+[submodule "tip-calculator"]
+	path = tip-calculator
+	url = https://github.com/GuilhermeFigueira/tip-calculator
+[submodule "interactive-rating"]
+	path = interactive-rating
+	url = https://github.com/GuilhermeFigueira/interactive-rating
+[submodule "qr-code-component"]
+	path = qr-code-component
+	url = https://github.com/GuilhermeFigueira/qr-code-component
+[submodule "results-summary"]
+	path = results-summary
+	url = https://github.com/GuilhermeFigueira/results-summary
+[submodule "interactive-pricing"]
+	path = interactive-pricing
+	url = https://github.com/GuilhermeFigueira/interactive-pricing
+[submodule "testimonials-grid"]
+	path = testimonials-grid
+	url = https://github.com/GuilhermeFigueira/testimonials-grid
+[submodule "ecommerce-product"]
+	path = ecommerce-product
+	url = https://github.com/GuilhermeFigueira/ecommerce-product
+[submodule "product-preview"]
+	path = product-preview
+	url = https://github.com/GuilhermeFigueira/product-preview
+[submodule "order-summary"]
+	path = order-summary
+	url = https://github.com/GuilhermeFigueira/order-summary
+[submodule "sign-up-form"]
+	path = sign-up-form
+	url = https://github.com/GuilhermeFigueira/sign-up-form
+[submodule "social-dashboard"]
+	path = social-dashboard
+	url = https://github.com/GuilhermeFigueira/social-dashboard
+[submodule "ip-tracker"]
+	path = ip-tracker
+	url = https://github.com/GuilhermeFigueira/ip-tracker
+[submodule "age-calculator"]
+	path = age-calculator
+	url = https://github.com/GuilhermeFigueira/age-calculator
+[submodule "huddle-landing-page"]
+	path = huddle-landing-page
+	url = https://github.com/GuilhermeFigueira/huddle-landing-page
+[submodule "launch-countdown-timer"]
+	path = launch-countdown-timer
+	url = https://github.com/GuilhermeFigueira/launch-countdown-timer
+[submodule "url-shortening-api"]
+	path = url-shortening-api
+	url = https://github.com/GuilhermeFigueira/url-shortening-api
+[submodule "article-component"]
+	path = article-component
+	url = https://github.com/GuilhermeFigueira/article-component
+[submodule "profile-card"]
+	path = profile-card
+	url = https://github.com/GuilhermeFigueira/profile-card
+[submodule "3-column-card"]
+	path = 3-column-card
+	url = https://github.com/GuilhermeFigueira/3-column-card
+[submodule "four-card-section"]
+	path = four-card-section
+	url = https://github.com/GuilhermeFigueira/four-card-section
+[submodule "intro-component"]
+	path = intro-component
+	url = https://github.com/GuilhermeFigueira/intro-component
+[submodule "room-homepage"]
+	path = room-homepage
+	url = https://github.com/GuilhermeFigueira/room-homepage
+[submodule "interative-card-form"]
+	path = interative-card-form
+	url = https://github.com/GuilhermeFigueira/interative-card-form
